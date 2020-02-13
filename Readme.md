@@ -14,6 +14,9 @@ Donc pour un pays :
 'france' => 
   'capital-name' => 'paris'
   'flag-file' => 'france.png'
+'belgique' => 
+  'capital-name' => 'bruxelles'
+  'flag-file' => 'belgique.png'
 ```
 
 Notez que dans les arrays, tout est en minuscule, mais que les valeurs insérées dans le HTML doivent être :
