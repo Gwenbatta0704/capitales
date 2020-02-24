@@ -26,7 +26,10 @@ Notez que dans les arrays, tout est en minuscule, mais que les valeurs insérée
 
 Les [fonctions qui permettent d’agir sur les chaînes](https://www.php.net/manual/fr/book.strings.php) vous seront utiles ici. Si vous devez manipuler des chaînes de caractères contenant des caractères non ASCII, jetez un œil sur les [fonctions pour les chaînes multi-octets](https://www.php.net/manual/fr/book.mbstring.php).
 
-La documentation contient un grand nombre de [fonctions sur les tableaux](https://www.php.net/manual/fr/ref.array.php). Ici, [array_keys](https://www.php.net/manual/fr/function.array-keys.php) et [in_array](https://www.php.net/manual/fr/function.in-array.php) vous seront utiles pour vérifier que le pays soumis est bien un pays prévu par le programme. 
+La documentation contient un grand nombre de [fonctions sur les tableaux](https://www.php.net/manual/fr/ref.array.php). Ici, [array_keys](https://www.php.net/manual/fr/function.array-keys.php) et [in_array](https://www.php.net/manual/fr/function.in-array.php) vous seront utiles pour vérifier que le pays soumis est bien un pays prévu par le programme. Mieux, [array_key_exists](https://www.php.net/manual/fr/function.array-key-exists) vous permettra de combiner les deux opérations en une seule…
 
 La structure de contrôle [foreach](https://www.php.net/manual/fr/control-structures.foreach.php) est la structure de contrôle la plus utilisée pour le parcours de tableau et il est *essentiel* que vous soyez confortable avec elle (attention, elle a deux formes selon que vous récupérez les clés ou pas) pour progresser en PHP.
 
+
+
+[Vidéo de la correction](https://www.youtube.com/watch?v=qvkNSGLnG6c)
